@@ -11,6 +11,9 @@ public class Example2_Lambda {
 //        Comparator comparator = (first, second) -> first.length() - second.length();
 
 // making a change to see what is going on.
+    	
+    	System.out.println("testing to make local change");
+
     }
 }
 
