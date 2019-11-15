@@ -5,7 +5,8 @@ public class App1 implements A {
     public void doSth() {
         System.out.println("inside App1");
     }
-
+// this is a test
+    
     public static void main(String[] args) {
         new App1().doSth();
     }

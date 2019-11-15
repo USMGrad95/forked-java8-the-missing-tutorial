@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="code/src/main/java"/>
+	<classpathentry kind="src" path="code/src/test/java"/>
+	<classpathentry kind="lib" path="code/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/workspace/forked-java8-the-missing-tutorial/lib/hamcrest-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
