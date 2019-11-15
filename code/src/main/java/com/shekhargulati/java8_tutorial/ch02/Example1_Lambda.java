@@ -14,7 +14,7 @@ public class Example1_Lambda {
         System.out.println("names sorted alphabetically  >>");
         System.out.println(names);
         System.out.println();
-
+// Testing changes to do a pull from github
         // using anonymous classes
         Collections.sort(names, new Comparator<String>() {
             @Override
